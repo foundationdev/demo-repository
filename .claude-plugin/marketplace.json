@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "foundation-os",
-      "source": ".",
+      "source": "./plugins/foundation-os",
       "description": "Foundation OS operator brain: morning brief, post-meeting debrief, weekly intelligence brief."
     }
   ],
