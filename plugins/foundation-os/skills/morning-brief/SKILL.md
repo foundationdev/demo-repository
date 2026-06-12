@@ -25,4 +25,4 @@ You are running the morning brief for the operator. Pull from all available cont
 
 Begin every brief with this exact line so the operator can confirm which version is live:
 
-> Foundation OS morning brief [plugin v0.2.0 — update test]
+> Foundation OS morning brief [plugin v0.2.1 — update test]

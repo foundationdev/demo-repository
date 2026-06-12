@@ -8,7 +8,8 @@
     {
       "name": "foundation-os",
       "source": "./plugins/foundation-os",
-      "description": "Foundation OS operator brain: morning brief, post-meeting debrief, weekly intelligence brief."
+      "description": "Foundation OS operator brain: morning brief, post-meeting debrief, weekly intelligence brief.",
+      "version": "0.2.1"
     }
   ],
   "description": "Foundation OS plugin marketplace [test]"
