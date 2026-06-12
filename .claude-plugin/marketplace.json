@@ -1,0 +1,15 @@
+{
+  "name": "PRGRMMD-BRAIN",
+  "owner": {
+    "name": "Foundation",
+    "url": "https://usefoundation.com.au"
+  },
+  "plugins": [
+    {
+      "name": "foundation-os",
+      "source": ".",
+      "description": "Foundation OS operator brain: morning brief, post-meeting debrief, weekly intelligence brief."
+    }
+  ],
+  "description": "Foundation OS plugin marketplace [test]"
+}

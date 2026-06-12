@@ -1,0 +1,11 @@
+{
+  "name": "foundation-os",
+  "displayName": "Foundation OS",
+  "version": "0.1.0",
+  "description": "Foundation OS operator brain: morning brief, post-meeting debrief, weekly intelligence brief.",
+  "author": {
+    "name": "Foundation",
+    "url": "https://usefoundation.com.au"
+  },
+  "repository": "https://github.com/foundationdev/demo-repository"
+}
