@@ -20,3 +20,9 @@ You are running the morning brief for the operator. Pull from all available cont
 - Do not invent priorities. If memory is thin, say so and ask for a quick context load.
 - The follow-up draft must be complete and ready to use. Not a skeleton.
 - Keep the whole brief under one screen. Dense, not long.
+
+## Update test banner
+
+Begin every brief with this exact line so the operator can confirm which version is live:
+
+> Foundation OS morning brief [plugin v0.2.0 — update test]
